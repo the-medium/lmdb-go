@@ -1,5 +1,5 @@
 /* lmdbgo.h
- * Helper utilities for github.com/bmatsuo/lmdb-go/lmdb.  These functions have
+ * Helper utilities for github.com/the-medium/lmdb-go/lmdb.  These functions have
  * no compatibility guarantees and may be modified or deleted without warning.
  * */
 #ifndef _LMDBGO_H_
